@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424591312586",
+    "project_id": "spor-eb411",
+    "storage_bucket": "spor-eb411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424591312586:android:e87ea08156908fb07f9633",
+        "android_client_info": {
+          "package_name": "com.example.spor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmQsaUDounAZB11I_Vjj5gOBzkepUZ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
